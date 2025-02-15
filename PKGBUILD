@@ -2,7 +2,7 @@
 # Contributor: ml <ml@visu.li>
 pkgname=gotify-server
 pkgver=2.6.1
-pkgrel=1
+pkgrel=2
 pkgdesc='A simple server for sending and receiving messages in real-time per WebSocket.'
 arch=('x86_64' 'i686' 'aarch64' 'armv7h')
 url='https://gotify.net/'
@@ -20,7 +20,7 @@ source=(
 )
 sha256sums=('51743a221b27997bca3bbfef319dd640fbc75a32c2efa57a7634c9a378053852'
             '39fc913f205bbb102ba42ce3d419f2feb0f9143f14ccffd242b3cd5f51a8c0de'
-            '9aa04ff9a2981aa885d4f8df7467c4d7722aa12de7ae27376a4a11b559a0d1e2'
+            '8c3832004ed6f46e01ab69c993773da19b50a45862354165ed065bf3d2147b92'
             'c251cc61b80968f606df9f9840519456fa5ba5f35ced44f73fda49059ed650b6')
 
 prepare() {
