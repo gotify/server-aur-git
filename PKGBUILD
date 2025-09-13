@@ -1,7 +1,7 @@
 # Maintainer: jmattheis <contact AT jmattheis DOT de>
 # Contributor: ml <ml@visu.li>
 pkgname=gotify-server
-pkgver=2.7.1
+pkgver=2.7.2
 pkgrel=1
 pkgdesc='A simple server for sending and receiving messages in real-time per WebSocket.'
 arch=('x86_64' 'i686' 'aarch64' 'armv7h')
@@ -18,7 +18,7 @@ source=(
   'gotify-server.service'
   'config.patch'
 )
-sha256sums=('b73fcb6754fe94ac0957cd59555fcfa7ecf86253d341608b56a8c22ad51a7c0d'
+sha256sums=('f117482d7bb7a3adfd8852731615b0bcb52935b5ad0cffaf5ee4298c7b239147'
             '39fc913f205bbb102ba42ce3d419f2feb0f9143f14ccffd242b3cd5f51a8c0de'
             '8c3832004ed6f46e01ab69c993773da19b50a45862354165ed065bf3d2147b92'
             'c251cc61b80968f606df9f9840519456fa5ba5f35ced44f73fda49059ed650b6')
